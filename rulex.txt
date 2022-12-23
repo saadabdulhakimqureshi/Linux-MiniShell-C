@@ -1,0 +1,7 @@
+Write "make final" and then "./final" to run the shell.
+
+Use ls and pwd to get directory and the contennts in them. Use cd /home to refer to home directory. For folder name seperated by spaces write them as you would.
+m.
+Ignore the warnings on compilations. Found no way to avoid them.
+
+Use exit! to force quit when background processes are running.
